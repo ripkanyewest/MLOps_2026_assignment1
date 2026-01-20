@@ -1,0 +1,17 @@
+=== JOB STARTED ===
+Mon Jan 19 23:25:53 CET 2026
+Running on node: gcn9.local.snellius.surf.nl
+Job ID: 18479908
+Partition: gpu_course
+=== ENVIRONMENT INFO ===
+Python 3.13.1
+=== PYTORCH/CUDA TEST ===
+PyTorch version: 2.5.1+cu121
+CUDA available: True
+GPU name: NVIDIA A100-SXM4-40GB MIG 1g.5gb
+CUDA version: 12.1
+GPU memory allocated: 0.00 GB
+=== SIMPLE CALCULATION ===
+Matrix multiplication (1000x1000): 0.0232 seconds
+=== JOB COMPLETED ===
+Mon Jan 19 23:26:00 CET 2026
